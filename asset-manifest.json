@@ -1,7 +1,7 @@
 {
   "main.css": "/playback-in-crete/static/css/main.9ff9baa0.chunk.css",
-  "main.js": "/playback-in-crete/static/js/main.997a9934.chunk.js",
-  "main.js.map": "/playback-in-crete/static/js/main.997a9934.chunk.js.map",
+  "main.js": "/playback-in-crete/static/js/main.f9089b86.chunk.js",
+  "main.js.map": "/playback-in-crete/static/js/main.f9089b86.chunk.js.map",
   "static/js/1.13fafad6.chunk.js": "/playback-in-crete/static/js/1.13fafad6.chunk.js",
   "static/js/1.13fafad6.chunk.js.map": "/playback-in-crete/static/js/1.13fafad6.chunk.js.map",
   "static/css/2.5fa0e08c.chunk.css": "/playback-in-crete/static/css/2.5fa0e08c.chunk.css",
@@ -24,7 +24,7 @@
   "static/media/wood cabin 2 (21).webp": "/playback-in-crete/static/media/wood cabin 2 (21).cf2d9c34.webp",
   "static/media/etay-sharon.jpg": "/playback-in-crete/static/media/etay-sharon.5651d6b1.jpg",
   "static/media/orly-kovo.jpg": "/playback-in-crete/static/media/orly-kovo.5d31ce18.jpg",
-  "static/media/semantic.min.css": "/playback-in-crete/static/media/flags.9c74e172.png",
+  "static/media/semantic.min.css": "/playback-in-crete/static/media/brand-icons.a1a749e8.svg",
   "static/media/hometown.jpg": "/playback-in-crete/static/media/hometown.d325600b.jpg",
   "static/media/crt2.png": "/playback-in-crete/static/media/crt2.dcb7ba9f.png",
   "static/media/crt3.png": "/playback-in-crete/static/media/crt3.80f12276.png",
@@ -45,6 +45,6 @@
   "static/css/main.9ff9baa0.chunk.css.map": "/playback-in-crete/static/css/main.9ff9baa0.chunk.css.map",
   "static/css/2.5fa0e08c.chunk.css.map": "/playback-in-crete/static/css/2.5fa0e08c.chunk.css.map",
   "index.html": "/playback-in-crete/index.html",
-  "precache-manifest.bb09208c81b609c056b5066e30e54b54.js": "/playback-in-crete/precache-manifest.bb09208c81b609c056b5066e30e54b54.js",
+  "precache-manifest.f91a6da785ca4eb716b32b536aefb3cf.js": "/playback-in-crete/precache-manifest.f91a6da785ca4eb716b32b536aefb3cf.js",
   "service-worker.js": "/playback-in-crete/service-worker.js"
 }
