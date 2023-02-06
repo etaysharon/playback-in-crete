@@ -12,8 +12,7 @@ const PackageView = ({ title }) => (
         </Descriptions.Item>
         <Descriptions.Item label="לינה" span={3}>4 לילות על בסיס פנסיון מלא (ארוחות בוקר, צהריים וערב)</Descriptions.Item>
         <Descriptions.Item label="מחיר" span={3} >
-            חדר זוגי בוילה - 5150 ש"ח לאדם <br />
-            חדר זוגי בבקתות העץ - 5150 ש"ח לאדם<br />
+            חדר זוגי בוילה או בבקתות העץ - 5150 ש"ח לאדם <br />
             חדר לשלישייה בדירת הסטודיו או בוילה - 4750 ש"ח לאדם
         </Descriptions.Item>
         <Descriptions.Item label="פעילות" span={3}>
