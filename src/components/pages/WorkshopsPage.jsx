@@ -74,8 +74,7 @@ const WorkshopsPage = () => {
             process.env.REACT_APP_SHOW_PACKAGE.toLowerCase() === "true" ? 
             <>
                 <Divider />
-                <PackageView title={<h2>על החבילה</h2>} />
-                <br />
+                <PackageView title={<h2> על החבילה: </h2>} />
             </> : ""
         }
         {
