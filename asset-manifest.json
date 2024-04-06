@@ -1,12 +1,12 @@
 {
   "main.css": "/playback-in-crete/static/css/main.cf01b5e5.chunk.css",
-  "main.js": "/playback-in-crete/static/js/main.7706f572.chunk.js",
-  "main.js.map": "/playback-in-crete/static/js/main.7706f572.chunk.js.map",
+  "main.js": "/playback-in-crete/static/js/main.a12568ac.chunk.js",
+  "main.js.map": "/playback-in-crete/static/js/main.a12568ac.chunk.js.map",
   "static/js/1.b2579a5b.chunk.js": "/playback-in-crete/static/js/1.b2579a5b.chunk.js",
   "static/js/1.b2579a5b.chunk.js.map": "/playback-in-crete/static/js/1.b2579a5b.chunk.js.map",
   "static/css/2.cc486aa6.chunk.css": "/playback-in-crete/static/css/2.cc486aa6.chunk.css",
-  "static/js/2.debdc9db.chunk.js": "/playback-in-crete/static/js/2.debdc9db.chunk.js",
-  "static/js/2.debdc9db.chunk.js.map": "/playback-in-crete/static/js/2.debdc9db.chunk.js.map",
+  "static/js/2.33827a82.chunk.js": "/playback-in-crete/static/js/2.33827a82.chunk.js",
+  "static/js/2.33827a82.chunk.js.map": "/playback-in-crete/static/js/2.33827a82.chunk.js.map",
   "runtime~main.js": "/playback-in-crete/static/js/runtime~main.c361b763.js",
   "runtime~main.js.map": "/playback-in-crete/static/js/runtime~main.c361b763.js.map",
   "static/media/R1upviewbeach.jpg": "/playback-in-crete/static/media/R1upviewbeach.c687b844.jpg",
@@ -38,7 +38,7 @@
   "static/media/wood cabin 1 (19).webp": "/playback-in-crete/static/media/wood cabin 1 (19).ecc395ec.webp",
   "static/media/wood cabin 2 (21).webp": "/playback-in-crete/static/media/wood cabin 2 (21).cf2d9c34.webp",
   "static/media/R1beachSideShot.jpg": "/playback-in-crete/static/media/R1beachSideShot.e4946732.jpg",
-  "static/media/semantic.min.css": "/playback-in-crete/static/media/brand-icons.a1a749e8.svg",
+  "static/media/semantic.min.css": "/playback-in-crete/static/media/flags.9c74e172.png",
   "static/media/hometown.jpg": "/playback-in-crete/static/media/hometown.d325600b.jpg",
   "static/media/3188f687-5902-42cf-914d-6759ffe09d09.webp": "/playback-in-crete/static/media/3188f687-5902-42cf-914d-6759ffe09d09.4ad1a018.webp",
   "static/media/R1balconeyBackup.jpg": "/playback-in-crete/static/media/R1balconeyBackup.264a2765.jpg",
@@ -55,6 +55,6 @@
   "static/css/2.cc486aa6.chunk.css.map": "/playback-in-crete/static/css/2.cc486aa6.chunk.css.map",
   "static/css/main.cf01b5e5.chunk.css.map": "/playback-in-crete/static/css/main.cf01b5e5.chunk.css.map",
   "index.html": "/playback-in-crete/index.html",
-  "precache-manifest.621f986c9aa20c8badefe6e75d3df9bc.js": "/playback-in-crete/precache-manifest.621f986c9aa20c8badefe6e75d3df9bc.js",
+  "precache-manifest.63a33e726e9c84be4c39d0a98e297df0.js": "/playback-in-crete/precache-manifest.63a33e726e9c84be4c39d0a98e297df0.js",
   "service-worker.js": "/playback-in-crete/service-worker.js"
 }
