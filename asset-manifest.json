@@ -1,7 +1,7 @@
 {
   "main.css": "/playback-in-crete/static/css/main.cf01b5e5.chunk.css",
-  "main.js": "/playback-in-crete/static/js/main.4f632a3e.chunk.js",
-  "main.js.map": "/playback-in-crete/static/js/main.4f632a3e.chunk.js.map",
+  "main.js": "/playback-in-crete/static/js/main.082f244d.chunk.js",
+  "main.js.map": "/playback-in-crete/static/js/main.082f244d.chunk.js.map",
   "static/js/1.b2579a5b.chunk.js": "/playback-in-crete/static/js/1.b2579a5b.chunk.js",
   "static/js/1.b2579a5b.chunk.js.map": "/playback-in-crete/static/js/1.b2579a5b.chunk.js.map",
   "static/css/2.cc486aa6.chunk.css": "/playback-in-crete/static/css/2.cc486aa6.chunk.css",
@@ -52,9 +52,9 @@
   "static/media/the whole complex (25).webp": "/playback-in-crete/static/media/the whole complex (25).260ee35e.webp",
   "static/media/zula (73).webp": "/playback-in-crete/static/media/zula (73).bdd323d7.webp",
   "static/media/woman-with-ocean.png": "/playback-in-crete/static/media/woman-with-ocean.8883dbfc.png",
-  "static/css/main.cf01b5e5.chunk.css.map": "/playback-in-crete/static/css/main.cf01b5e5.chunk.css.map",
   "static/css/2.cc486aa6.chunk.css.map": "/playback-in-crete/static/css/2.cc486aa6.chunk.css.map",
+  "static/css/main.cf01b5e5.chunk.css.map": "/playback-in-crete/static/css/main.cf01b5e5.chunk.css.map",
   "index.html": "/playback-in-crete/index.html",
-  "precache-manifest.4c8997862137a7aa7bfef0a5dbf55d2e.js": "/playback-in-crete/precache-manifest.4c8997862137a7aa7bfef0a5dbf55d2e.js",
+  "precache-manifest.c061abf55f335e04577a53db338410b3.js": "/playback-in-crete/precache-manifest.c061abf55f335e04577a53db338410b3.js",
   "service-worker.js": "/playback-in-crete/service-worker.js"
 }
